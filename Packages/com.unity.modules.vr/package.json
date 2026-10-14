@@ -1,0 +1,8 @@
+{
+  "name": "com.unity.modules.vr",
+  "version": "1.0.0",
+  "displayName": "Unity VR Module (Unity 6 compatibility stub)",
+  "description": "Satisfies the com.unity.modules.vr@1.0.0 dependency required by com.unity.xr.management. This module was removed in Unity 6 and replaced by com.unity.modules.xr.",
+  "unity": "6000.0",
+  "dependencies": {}
+}
